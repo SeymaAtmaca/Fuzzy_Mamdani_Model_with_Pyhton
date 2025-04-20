@@ -1,7 +1,7 @@
 # Fuzzy Mamdani Model with Python
 
 <br><br>
-<h1>Technology</h1>
+<h1>Technology</h1> 
 
 :snake: Python <br>
 :snake: Fuzzy Model
